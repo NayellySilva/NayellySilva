@@ -31,8 +31,8 @@ Sou apaixonada por tecnologia e estou sempre buscando evoluir através de projet
 ## Estatísticas
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NayellySilva&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NayellySilva&layout=compact&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NayellySilva&show_icons=true&theme=omni&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NayellySilva&layout=compact&theme=omni"/>
 </div>
 
 --- 
