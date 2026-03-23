@@ -1,4 +1,4 @@
-<h1>✨ Nayelly Silva ✨</h1>
+<h1>✨ Nayelly Roberta ✨</h1>
 
 <p>
 📚 Estudante de Análise e Desenvolvimento de Sistemas <br>
@@ -30,19 +30,12 @@ Sou apaixonada por tecnologia e estou sempre buscando evoluir através de projet
 
 ## Estatísticas
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elly124&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elly124&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NayellySilva&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NayellySilva&layout=compact&theme=tokyonight"/>
+</div>
 
 --- 
-## Minhas contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/elly124/elly124/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ## Contato
 
