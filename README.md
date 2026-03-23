@@ -41,6 +41,7 @@ Sou apaixonada por tecnologia e estou sempre buscando evoluir através de projet
 <p align="center">
   <img src="https://raw.githubusercontent.com/elly124/elly124/output/github-contribution-grid-snake.svg"/>
 </p>
+
 ---
 
 ## Contato
