@@ -1,15 +1,15 @@
-# Olá, eu sou a Nayelly Roberta 👋
+# Olá, eu sou a Nayelly Roberta
 
 **Desenvolvedora Full Stack Júnior** · Laravel · React · PHP · PostgreSQL  
 Tecnóloga em Análise e Desenvolvimento de Sistemas e cursando **Sistemas de Informação** na UniFAP · Juazeiro do Norte, CE
 
 ## Sobre mim
 
-- 💼 Desenvolvedora Full Stack e **Líder de Projeto** no **NexTI UniFAP**, onde lidero uma equipe de 3 devs na criação de um sistema de gestão de projetos
-- 🛠️ Desenvolvi o front e o back-end de um sistema de gerenciamento de demandas internas (React, Tailwind, Laravel, PostgreSQL, Docker)
-- 🧩 Gosto de unir código, UX e requisitos bem entendidos: bom software começa antes do código
-- 🎤 Co-conduzi o workshop *Descodificando Requisitos* (engenharia de requisitos e Scrum na prática)
-- 🔎 Aberta a oportunidades como **Desenvolvedora Full Stack Júnior** (presencial, híbrido ou remoto)
+- Desenvolvedora Full Stack e **Líder de Projeto** no **NexTI UniFAP**, onde lidero uma equipe de 3 devs na criação de um sistema de gestão de projetos
+- Desenvolvi o front e o back-end de um sistema de gerenciamento de demandas internas (React, Tailwind, Laravel, PostgreSQL, Docker)
+- Gosto de unir código, UX e requisitos bem entendidos: bom software começa antes do código
+- Co-conduzi o workshop *Descodificando Requisitos* (engenharia de requisitos e Scrum na prática)
+- Aberta a oportunidades como **Desenvolvedora Full Stack Júnior** (presencial, híbrido ou remoto)
 
 ## Stack
 
