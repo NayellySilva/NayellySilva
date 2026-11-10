@@ -1,6 +1,6 @@
 # Olá, eu sou a Nayelly Roberta 👋
 
-**Desenvolvedora Full Stack Júnior** · Laravel · React · PHP · PostgreSQL
+**Desenvolvedora Full Stack Júnior** · Laravel · React · PHP · PostgreSQL  
 Tecnóloga em Análise e Desenvolvimento de Sistemas e cursando **Sistemas de Informação** na UniFAP · Juazeiro do Norte, CE
 
 ## Sobre mim
@@ -35,7 +35,7 @@ Tecnóloga em Análise e Desenvolvimento de Sistemas e cursando **Sistemas de In
 |---|---|---|
 | [helpbot-react-native](https://github.com/NayellySilva/helpbot-react-native) | App mobile de chatbot com IA: chat em tempo real integrado a uma API de linguagem natural | React Native · Expo · OpenRouter API |
 | [filmes-mobile](https://github.com/NayellySilva/filmes-mobile) | App mobile de catálogo de filmes, com lista, tela de detalhes e backend fake consumido via Axios | React Native · TypeScript · Axios |
-| [Mask-Game](https://github.com/NayellySilva/Mask-Game) | Jogo da memória desenvolvido em equipe na Global Game Jam | Vue.js |
+| [Mask-Game](https://github.com/NayellySilva/Mask-Game) | Jogo da memória “Máscaras do Nordeste”, criado em equipe na Global Game Jam — [jogar online](https://mask-game.vercel.app) | Vue.js |
 
 > No NexTI UniFAP desenvolvi o **Sistema de Gerenciamento de Demandas** (front em React + Tailwind, back em Laravel + PostgreSQL, ambiente em Docker). O código é privado da instituição.
 
@@ -43,3 +43,4 @@ Tecnóloga em Análise e Desenvolvimento de Sistemas e cursando **Sistemas de In
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayelly-roberta/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nayelly.ferreira.silva@gmail.com)
+
