@@ -44,3 +44,11 @@ Tecnóloga em Análise e Desenvolvimento de Sistemas e cursando **Sistemas de In
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayelly-roberta/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nayelly.ferreira.silva@gmail.com)
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NayellySilva/NayellySilva/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NayellySilva/NayellySilva/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NayellySilva/NayellySilva/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
+
